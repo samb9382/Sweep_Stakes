@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SweepStakes
 {
-    class Sweepstakes
+    class Sweepstakes //USE DICTIONARY DATA STRUCTURE AS UNDERLYING STRUCTURE
     {
         //member variables
 

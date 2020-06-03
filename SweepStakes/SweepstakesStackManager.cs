@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace SweepStakes
 {
-    interface ISweepstakesManager  
+    class SweepstakesStackManager //USE STACK DATA STRUCTURE AS UNDERLYING STRUCTURE
     {
-        void InsertSweepstakes(Sweepstakes sweepstakes);
-
-        void Sweepstakes GetSweepstakes();
     }
 }
